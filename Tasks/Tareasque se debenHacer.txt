@@ -1,16 +1,10 @@
 tareas david
  - agregar tablas:
-	- tabla de roles
-	- tabla de eventos
-	- separar tabla de productoServicio, en tabla de servicio hotel, servicio aliado, producto hotel, producto aliado
-	- tabla de salones
-	- tabla de reserva agregar ID usuarioAdmin
-	- tabla UsuarioCliente relaciona con el cliente
-	-agregar a todas las tablas el campo FechaCreated
-	- agregar campo estado de la reserva (finalizada, activo, en proceso, cancelada)
+	
+	
 	- crear tabla de log de cada todas las tablas, el log debe tener todos los campos de la tabla adicionando ID de la tabla timestamp.
-	- agregar campo de longitud y latitud a los edificios
-	- agregar edificios a hotel
+	
+	
 	
  - Casos tipicos:
 
