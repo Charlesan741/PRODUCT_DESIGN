@@ -13,3 +13,21 @@ tareas david
 	- agregar edificios a hotel
 	
  - Casos tipicos:
+
+- registro ingreso al hotel
+- registro de uso de servicio hotel
+- control de las habitaciones
+- registro servicio aliado
+- registro producto hotel
+- registro producto aliado
+
+- Casos Administrativos
+
+- nuevas habitaciones
+- nuevos convenios
+- nuevos servicios 
+- nuevos productos
+- nuevos edificios
+- nuevos hoteles
+- nuevos descuentos
+- nuevos eventos
